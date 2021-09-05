@@ -11,8 +11,5 @@
 ## Features
 - The status of adding(+), subtracting(-), multiplying(×), and dividing(÷) is displayed above the input value.
 
-## Reference
-- I made this app by referring to the youtube of the link below. <br>https://www.youtube.com/playlist?list=PLJGQf09UDweKyRv9gZ5toTeATgwNRP-2e</br>
-
 ## Licence
 MIT
